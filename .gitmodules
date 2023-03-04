@@ -1,0 +1,84 @@
+[submodule "aeren1564"]
+    path = aeren1564
+    url = https://github.com/Aeren1564/Algorithms
+[submodule "lzl124631x"]
+    path = lzl124631x
+    url = https://github.com/lzl124631x
+[submodule "algorithmica"]
+    path = algorithmica
+    url = https://github.com/algorithmica-org/algorithmica
+[submodule "basic-algo-lecture"]
+    path = basic-algo-lecture
+    url = https://github.com/encrypted-def/basic-algo-lecture
+[submodule "Best-websites-a-programmer-should-visit"]
+    path = Best-websites-a-programmer-should-visit
+    url = https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+[submodule "CC"]
+    path = CC
+    url = https://github.com/the-hyp0cr1t3/CC
+[submodule "code-library"]
+    path = code-library
+    url = https://github.com/ShahjalalShohag/code-library
+[submodule "Competitive-Coding"]
+    path = Competitive-Coding
+    url = https://github.com/Ashishgup1/Competitive-Coding
+[submodule "cp-algorithms"]
+    path = cp-algorithms
+    url = https://github.com/cp-algorithms/cp-algorithms
+[submodule "cp-library"]
+    path = cp-library
+    url = https://github.com/mzhang2021/cp-library
+[submodule "DeobureoMinkyuParty"]
+    path = DeobureoMinkyuParty
+    url = https://github.com/koosaga/DeobureoMinkyuParty
+[submodule "icpc-teamnote"]
+    path = icpc-teamnote
+    url = https://github.com/justiceHui/icpc-teamnote
+[submodule "ALPS-Study-2020"]
+    path = ALPS-Study-2020
+    url = https://github.com/ALPS-Study/Introduction
+[submodule "koosaga-olympiad"]
+    path = koosaga-olympiad
+    url = https://github.com/koosaga/olympiad
+[submodule "damhiya-presentations"]
+    path = damhiya-presentations 
+    url = https://github.com/damhiya/Presentations
+[submodule "SSU-SCCC-Study"]
+    path = SSU-SCCC-Study
+    url = https://github.com/justiceHui/SSU-SCCC-Study
+[submodule "Sunrin-SHARC"]
+    path = Sunrin-SHARC
+    url = https://github.com/justiceHui/Sunrin-SHARC
+[submodule "2021-Comu-ECS-Development"]
+    path = utilForever/2021-CoMu-ECS-Development
+    url = https://github.com/utilForever/2021-CoMu-ECS-Development
+[submodule "2022-CAU-Rust-GameProgramming"]
+    path = utilForever/2022-CAU-Rust-GameProgramming
+    url = https://github.com/utilForever/2021-CoMu-ECS-Development
+[submodule "2022-CppKorea-DataStructure"]
+    path = utilForever/2022-CppKorea-DataStructure
+    url = https://github.com/utilForever/2022-CppKorea-DataStructure
+[submodule "2022-GDSC-AlphaGo"]
+    path = utilForever/2022-GDSC-AlphaGo
+    url = https://github.com/utilForever/2022-GDSC-AlphaGo
+[submodule "2022-INFCON-Rust-CrossPlatform"]
+    path = utilForever/2022-INFCON-Rust-CrossPlatform
+    url = https://github.com/utilForever/2022-INFCON-Rust-CrossPlatform
+[submodule "2022-Korea-Rust-Backend"]
+    path = utilForever/2022-Korea-Rust-Backend
+    url = https://github.com/utilForever/2022-Korea-Rust-Backend
+[submodule "2022-KW-ECS-Development"]
+    path = utilForever/2022-KW-ECS-Development
+    url = https://github.com/utilForever/2022-KW-ECS-Development
+[submodule "2022-KW-ECS-Development"]
+    path = utilForever/2022-KW-ECS-Development
+    url = https://github.com/utilForever/2022-KW-ECS-Development
+[submodule "2022-KW-RLEnv"]
+    path = utilForever/2022-KW-RLEnv
+    url = https://github.com/utilForever/2022-KW-RLEnv
+[submodule "2022-Make-Interpreter-Rust"]
+    path = utilForever/2022-Make-Interpreter-Rust
+    url = https://github.com/utilForever/2022-Make-Interpreter-Rust
+[submodule "2022-SWMaestro-Rust-Basic"]
+    path = utilForever/2022-SWMaestro-Rust-Basic
+    url = https://github.com/utilForever/2022-SWMaestro-Rust-Basic
